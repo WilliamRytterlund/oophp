@@ -4,7 +4,7 @@ views:
         region: sidebar-right
         template: anax/v2/block/default
         data:
-            meta: 
+            meta:
                 type: single
                 route: block/om-kursrepo
 
@@ -12,17 +12,16 @@ views:
         region: sidebar-right
         template: anax/v2/block/default
         data:
-            meta: 
+            meta:
                 type: single
                 route: block/om-redovisa
 ---
 Om
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/om.md`.
+Jag är riktigt taggad på denna kursen just för att design är det första man ser när du öppnar en webbsida.
+Att ha friheten att designa din webbsida så som du vill är mycket spännande.
+Jag hoppas på att utvecka mina design möjligheter i denna kursen.
 
-Skriv några kloka ord om kursen?
 
-Lägg till en fin och representativ bild för kursen, enligt ditt eget val.
-
-[FIGURE src=image/car.png?w=740&filter=grayscale&f1=colorize,0,30,0,0 caption="En fin bil som demobild, lite oklart hur den är representativ, men ändå..."]
+[FIGURE src=image/farg.jpg?w=300 caption="Fin bild på färg för att symbolisera design."]
